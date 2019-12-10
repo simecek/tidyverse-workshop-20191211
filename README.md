@@ -2,7 +2,7 @@
 
 * **Date**: 2019/12/11 - 2019/12/12
 * **Location**: CEITEC MU, Brno
-* **RStudio Cloud Project** (Day 1): TBD
+* **RStudio Cloud Project** (Day 1): [https://rstudio.cloud/project/790251](https://rstudio.cloud/project/790251)
 * **RStudio Cloud Project** (Day 2): TBD
 * **Bitly URL of this repo**: [http://bit.ly/tidyverse1112](http://bit.ly/tidyverse1112)
 
