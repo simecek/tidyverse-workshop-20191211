@@ -4,6 +4,7 @@
 * **Location**: CEITEC MU, Brno
 * **RStudio Cloud Project** (Day 1): [https://rstudio.cloud/project/790251](https://rstudio.cloud/project/790251)
 * **RStudio Cloud Project** (Day 2): TBD
+* **Day2 materials**: [http://bit.ly/brno_day2](http://bit.ly/brno_day2)
 * **Bitly URL of this repo**: [http://bit.ly/tidyverse1112](http://bit.ly/tidyverse1112)
 
 All materials were copied or adapted from RStudio course [Remastering ‘Master the Tidyverse’](https://education.rstudio.com/blog/2019/09/remaster-tidyverse/)
