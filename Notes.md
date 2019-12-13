@@ -42,6 +42,7 @@ Funny part with lists at the end. People were tired but it worked much better th
 * Green and red stick-up notes
 * Feedback from the first day
 * Working on local machines (but having cloud instances as a backup)
+* Cheatsheets
 
 ### Space for improvement
 
